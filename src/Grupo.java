@@ -1,4 +1,3 @@
-
 public class Grupo {
 	
 	public String nome;
