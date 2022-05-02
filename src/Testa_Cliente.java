@@ -1,5 +1,5 @@
 
-public class Teste {
+public class Testa_Cliente {
 	public static void main(String[] args) {
 		Cliente cliente = new Cliente();
 		cliente.codigo = 1;
